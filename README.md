@@ -1,8 +1,6 @@
-north-american-hamsters
-=======================
+![North American Hamsters](/img/cover.jpg?raw=true "North American Hamsters")
 # [View the PDF here](https://github.com/afader/north-american-hamsters/raw/master/north-american-hamsters.pdf)
 # [Printable booklet PDF here](https://github.com/afader/north-american-hamsters/raw/master/booklet.pdf)
-![North American Hamsters](/img/cover.jpg?raw=true "North American Hamsters")
 
 Tao Lin wrote a serires of articles about North American Hamsters and published them on the web. This repository is a
 typeset version of the articles, designed to be printed out on paper. I did not ask Tao for permission to do this, but he
